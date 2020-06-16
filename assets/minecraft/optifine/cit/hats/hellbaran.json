@@ -1,0 +1,139 @@
+{
+	"credit": "Made by DrVECKER",
+	"textures": {
+		"0": "hats/red_nether_brick",
+		"particle": "hats/red_nether_brick"
+	},
+	"elements": [
+		{
+			"from": [2.95, 7, 4],
+			"to": [5, 9, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 2.05, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 2.05, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 2.05, 3], "texture": "#0"},
+				"down": {"uv": [0, 0, 2.05, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 7, 4],
+			"to": [13.025, 9, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 2.025, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 2.025, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 2.025, 3], "texture": "#0"},
+				"down": {"uv": [0, 0, 2.025, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 9, 3],
+			"to": [4, 11, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 11, 4],
+			"to": [5, 12, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 11, 4],
+			"to": [12, 12, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11.1, 9, 4],
+			"to": [12.9, 10, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 1.8, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 1.8, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 1.8, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 1.8, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.1, 9, 4],
+			"to": [4.9, 10, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 1.8, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 1.8, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 1.8, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 1.8, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [12, 9, 3],
+			"to": [13, 11, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -0.5, 2.5],
+			"scale": [0.64, 0.64, 0.64]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -0.5, 2.5],
+			"scale": [0.64, 0.64, 0.64]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 118, 0],
+			"translation": [0, 2.5, 0.5],
+			"scale": [0.64, 0.64, 0.64]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 118, 0],
+			"translation": [0, 2.5, 0.5],
+			"scale": [0.64, 0.64, 0.64]
+		},
+		"ground": {
+			"scale": [0.46, 0.46, 0.46]
+		},
+		"gui": {
+			"rotation": [-7, 38, 23],
+			"translation": [2.75, -0.5, 0],
+			"scale": [1.33, 1.33, 1.33]
+		},
+		"head": {
+			"translation": [0, 5.25, 2],
+			"scale": [1.61, 1.61, 1.61]
+		}
+	}
+}

@@ -1,0 +1,59 @@
+{
+	"credit": "Made MrVECKER",
+	"textures": {
+		"69": "hats/mask/denge"
+	},
+	"elements": [
+		{
+			"from": [4.5, 0, 7],
+			"to": [9.5, 2, 9],
+			"faces": {
+				"north": {"uv": [15.957, 0, 0, 3.881], "texture": "#69"},
+				"east": {"uv": [0, 0, 3, 3.637], "texture": "#69"},
+				"south": {"uv": [0, 0, 15.957, 3.881], "texture": "#69"},
+				"west": {"uv": [0, 11.59, 3.109, 15.975], "texture": "#69"},
+				"up": {"uv": [0, 4.599, 15.96, 11.378], "texture": "#69"},
+				"down": {"uv": [0, 4.599, 15.96, 11.378], "texture": "#69"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5.75, 0],
+			"scale": [0.76, 0.76, 0.76]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 5.75, 0],
+			"scale": [0.76, 0.76, 0.76]
+		},
+		"firstperson_righthand": {
+			"rotation": [-4, 28, 0],
+			"translation": [1.25, 9.25, 0],
+			"scale": [1.11, 1.11, 1.11]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-4, 28, 0],
+			"translation": [1.25, 9.25, 0],
+			"scale": [1.11, 1.11, 1.11]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"gui": {
+			"rotation": [36, 58, 0],
+			"translation": [0.75, 8.75, 0],
+			"scale": [1.42, 1.42, 1.42]
+		},
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 20.25, 1.5],
+			"scale": [1.72, 1.72, 1.72]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [3, 0.75, -26.25],
+			"scale": [3.39, 3.39, 3.39]
+		}
+	}
+}
